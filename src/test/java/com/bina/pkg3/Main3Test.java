@@ -10,6 +10,7 @@ public class Main3Test {
   
   }
 
+  @Ignore
   @Test
   public void test2() {
 
